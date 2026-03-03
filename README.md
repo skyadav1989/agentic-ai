@@ -74,7 +74,7 @@ Create a .env file:
 
 GEMINI_API_KEY=your_gemini_key  
 GROQ_API_KEY=your_groq_key  
-MAGENTO_GRAPHQL_URL=https://cmiestore.com/graphql  
+MAGENTO_GRAPHQL_URL=https://magento.com/graphql
 
 ---
 
